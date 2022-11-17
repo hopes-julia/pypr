@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print("Hello World!")
     k = 9
     k += 5
+    k *= 7
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
